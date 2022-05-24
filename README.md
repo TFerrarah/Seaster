@@ -1,0 +1,2 @@
+# Seaster
+**School assignment**
